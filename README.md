@@ -30,9 +30,3 @@ An interactive store where MySQL and NodeJS are used to allow users to purchase 
 * npm packages:
   * mysql
   * inquirer
-
-## How To Run on Your Machine
-1) Clone repository
-2) Install npm packages according to the included json
-3) Initialize JS file "bamazonCustomer.js" via CLI
-4) Follow the prompts!
