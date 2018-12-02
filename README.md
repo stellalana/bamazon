@@ -1,6 +1,6 @@
 # Bamazon!
 
-An interactive store where MySQL and NodeJS are used to allow users to purchase items as a customer. The purpose of this project is to explore how we can use JavaScript and Node to create and manage data systems. The NPM inquirer package was also leveraged in order to ease interaction with the app in CLI.
+An interactive store where MySQL and NodeJS are used to allow users to purchase items as a customer. The purpose of this project is to explore how we can use JavaScript and Node to access and manage data systems. The NPM inquirer package was also leveraged in order to ease interaction with the app in CLI.
 <hr>
 <hr>
 
