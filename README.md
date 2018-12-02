@@ -11,7 +11,7 @@ An interactive store where MySQL and NodeJS are used to allow users to purchase 
 ![Prompts Image](/Images/prompts.png?raw=true "Prompts")
 <hr>
 
-## If the item is in stock, the order will be completed and the user will see the total for their purchase. If not, they will be notified there are not enough items in stock.
+## If the item is in stock, the order will be completed and the user will see the total for their purchase.
 ![Prompts Image](/Images/purchase.png?raw=true "Purchase made!")
 <hr>
 
