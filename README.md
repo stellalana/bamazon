@@ -3,7 +3,7 @@
 An interactive store where MySQL and NodeJS are used to allow users to purchase items as a customer.
 <hr>
 <hr>
-<hr>
+
 
 ## Bamazon allows the user to view the current items available to purchase.  
 ![Store Image](/Images/start.png?raw=true "When file is initialized")
