@@ -77,5 +77,4 @@ var id=i;
 			promptCustomer(res);
 		}
 	})
-}	
-// The README file outlines the creation steps and application's functions. It also states the url of the application's image.
+}
